@@ -2,17 +2,17 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="Resources"/>
-	<classpathentry kind="lib" path="C:/Users/Allan Ridha/OneDrive/jLog/Nimex/JARs/commons-codec-1.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Allan Ridha/OneDrive/jLog/Nimex/JARs/commons-net-3.5.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Allan Ridha/OneDrive/jLog/Nimex/JARs/javax.mail.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Allan Ridha/OneDrive/jLog/Nimex/JARs/jPowerShell.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Allan Ridha/OneDrive/jLog/Nimex/JARs/oshi-core-3.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Allan Ridha/OneDrive/jLog/Nimex/JARs/slf4j-api-1.7.22.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Allan Ridha/OneDrive/jLog/Nimex/JARs/slf4j-simple-1.7.22.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Allan Ridha/OneDrive/jLog/Nimex/JARs/system-hook-2.5.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Allan Ridha/OneDrive/jLog/Nimex/JARs/platform.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Allan Ridha/OneDrive/jLog/Nimex/JARs/jna-4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OneDrive/jLog/Nimex/JARs/commons-codec-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OneDrive/jLog/Nimex/JARs/commons-net-3.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OneDrive/jLog/Nimex/JARs/javax.mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users//OneDrive/jLog/Nimex/JARs/jPowerShell.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OneDrive/jLog/Nimex/JARs/oshi-core-3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OneDrive/jLog/Nimex/JARs/slf4j-api-1.7.22.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OneDrive/jLog/Nimex/JARs/slf4j-simple-1.7.22.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OneDrive/jLog/Nimex/JARs/system-hook-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OneDrive/jLog/Nimex/JARs/platform.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OneDrive/jLog/Nimex/JARs/jna-4.0.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JRE System Library"/>
-	<classpathentry kind="lib" path="C:/Users/Allan Ridha/OneDrive/jLog/Nimex/JARs/jnativehook-2.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/OneDrive/jLog/Nimex/JARs/jnativehook-2.1.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
