@@ -13,3 +13,4 @@ A fully made Java Multi-OS logger written and developed by me in april of 2017.
 - User friendly.
 - Mutex included.
 - Global and Native Keyhook
+- Much more.
