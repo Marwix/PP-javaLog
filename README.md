@@ -9,7 +9,7 @@ A fully made Java Multi-OS logger written and developed by me in april of 2017.
 - Works on Mac, Linux and Windows.
 - Provides clean and colorful logs with data specifications of a person.
 - Simple encryption is implemented.
-- No GUI
+- No GUI is needed.
 - Mutex included.
 - Global and Native Keyhook.
 - Much more.
